@@ -1,0 +1,23 @@
+/* arrowApp.style.css */
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.arrow-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.arrow-box p {
+    
+  font-size: 44px;
+  margin: 0;
+}
